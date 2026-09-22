@@ -1,8 +1,8 @@
-# 👋 Hey, I'm Selti
+#  Hey!!, I'm Selti
 
-### Software Engineering Student • Web3 Developer • ML Enthusiast
+### Software Engineering Student • Blockchain Developer • AI/ML Engineer • Distributed Computing Expert
 
-I'm a Software Engineering student at **Nigerian Army University, Biu**, interested in building practical software, exploring blockchain, and learning how machine learning can solve real-world problems.
+I'm a Software Engineering student at **Nigerian Army University, Biu**, interested in building practical software, exploring blockchain, and learning how machine learning can solve real world problems. follow me as I build and learn every day.
 
 I enjoy taking an idea from **"what if?" → code → working project.**
 
