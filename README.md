@@ -77,15 +77,6 @@ HeyCileng AgTech connects Nigerian agro-processors and commercial off-takers to 
 * Identity Verification: Integrated live identity verification supporting NIN and CAC registration via Odot Services API.
 * Stack: JavaScript, React, Supabase, PostgreSQL, PostGIS, Edge Functions, Paystack API, HTML5/CSS3.
 
-### Decentralized IP & Patent Research Marketplace
-*Web3 Academic Research & Asset Management Platform*
-
-A decentralized platform for registering, trading, and licensing intellectual property, patents, and scientific research datasets.
-
-* Engineering Highlights: Solidity smart contracts deployed on the Sepolia Ethereum testnet, decentralized media and metadata storage on IPFS, and Chainlink oracles for off-chain data validation.
-* Academic Context: Developed as part of ongoing undergraduate software engineering research and thesis work.
-* Stack: Solidity, Sepolia Ethereum Testnet, Chainlink, IPFS, Web3.js, React.
-
 ### Decentralized Certificate Verification System
 *Immutable Credential Verification*
 
